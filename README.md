@@ -4,7 +4,19 @@ Ein Tool zur drastischen Vereinfachung der Nutzung von `pypixelcolor`. Es automa
 
 ## ⚡ Schnell-Installation (Einzeiler)
 
-Führe diesen Befehl aus, um alle Abhängigkeiten und die virtuelle Umgebung automatisch einzurichten:
+1. Repo klonen
+2. `./install.sh` ausfuehren
+3. MAC-Adresse in `led-send.sh` anpassen
 
-```bash
-wget -qO- [https://raw.githubusercontent.com/o-valo/led-send/main/install.sh](https://raw.githubusercontent.com/o-valo/led-send/main/install.sh) | bash
+## Nutzung
+
+Das Skript erkennt automatisch, ob Text per Argument oder per Pipe uebergeben wird.
+
+### Als Argument:
+./led-send.sh "Hallo Welt"
+
+### Per Pipe:
+date +%H:%M | ./led-send.sh
+
+### System-Status:
+echo "CPU Temp: $(vcgencmd measure_temp)" | ./led-send.sh
