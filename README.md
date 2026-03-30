@@ -27,5 +27,8 @@ Powerd by AI
 
 ![Demo Video](LED-send-example.mp4)
 
+<video src="LED-send-example.mp4" width="600" controls>
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
 
 
