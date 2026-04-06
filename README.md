@@ -31,13 +31,14 @@ curl wttr.in/Berlin?format=3 | ./led-send.sh
 
 Powerd by AI
 
-<a href="https://github.com/o-valo/led-send/blob/main/LED-send-example.mp4">
+<a href="https://github.com/o-valo/led-send/raw/refs/heads/main/LED-send-example.mp4">
   <img src="https://github.com/o-valo/led-send/blob/main/images/led-foto-1.png?raw=true" alt="Demo Video" width="200">
 </a>
 
-![Demo Video](LED-send-example.mp4)
+![Demo Video](LED-send-example.mp)
 
-<video src="LED-send-example.mp4" width="600" controls>
+
+<video src="" widthhttps://github.com/o-valo/led-send/raw/refs/heads/main/LED-send-example.mp4="600" controls>
   Dein Browser unterstützt das Video-Tag nicht.
 </video>
 
