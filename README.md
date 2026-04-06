@@ -36,7 +36,11 @@ Powerd by AI
 </a>
 
 
-[[video:title=LED-send Demo]](https://github.com/o-valo/led-send/raw/refs/heads/main/LED-send-example.mp4)
+<p align="center">
+  <video src="https://github.com/o-valo/led-send/raw/refs/heads/main/LED-send-example.mp4" width="600" controls>
+    Dein Browser unterstützt das Video-Tag nicht.
+  </video>
+</p>
 ![Demo Video](LED-send-example.mp4)
 
 
