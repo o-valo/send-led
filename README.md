@@ -2,11 +2,12 @@
 
 Ein Tool zur drastischen Vereinfachung der Nutzung von `pypixelcolor`. Es automatisiert die Aktivierung der Python-Umgebung und ermöglicht das Senden von Texten direkt über die Kommandozeile oder Pipes.
 
-## ⚡ Installation
+## ⚡ Installation Debian & Ubuntu
 
 1. Repo klonen
 2. `./install.sh` ausfuehren
 3. MAC-Adresse in `led-send.sh` anpassen
+
 
 ## Nutzung
 
